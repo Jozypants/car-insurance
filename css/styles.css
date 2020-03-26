@@ -1,0 +1,16 @@
+.btn {
+  display: block;
+}
+
+#quote {
+  display: none;
+}
+
+body {
+  background-color: lightskyblue;
+}
+
+.container {
+  margin-top: 30px;
+  margin-left: 30px;
+}
